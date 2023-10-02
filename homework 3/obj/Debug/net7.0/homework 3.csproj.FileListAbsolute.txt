@@ -1,0 +1,14 @@
+/Users/sam/tuna/Tuna-unity/homework 3/bin/Debug/net7.0/homework 3
+/Users/sam/tuna/Tuna-unity/homework 3/bin/Debug/net7.0/homework 3.deps.json
+/Users/sam/tuna/Tuna-unity/homework 3/bin/Debug/net7.0/homework 3.runtimeconfig.json
+/Users/sam/tuna/Tuna-unity/homework 3/bin/Debug/net7.0/homework 3.dll
+/Users/sam/tuna/Tuna-unity/homework 3/bin/Debug/net7.0/homework 3.pdb
+/Users/sam/tuna/Tuna-unity/homework 3/obj/Debug/net7.0/homework 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/tuna/Tuna-unity/homework 3/obj/Debug/net7.0/homework 3.AssemblyInfoInputs.cache
+/Users/sam/tuna/Tuna-unity/homework 3/obj/Debug/net7.0/homework 3.AssemblyInfo.cs
+/Users/sam/tuna/Tuna-unity/homework 3/obj/Debug/net7.0/homework 3.csproj.CoreCompileInputs.cache
+/Users/sam/tuna/Tuna-unity/homework 3/obj/Debug/net7.0/homework 3.dll
+/Users/sam/tuna/Tuna-unity/homework 3/obj/Debug/net7.0/refint/homework 3.dll
+/Users/sam/tuna/Tuna-unity/homework 3/obj/Debug/net7.0/homework 3.pdb
+/Users/sam/tuna/Tuna-unity/homework 3/obj/Debug/net7.0/homework 3.genruntimeconfig.cache
+/Users/sam/tuna/Tuna-unity/homework 3/obj/Debug/net7.0/ref/homework 3.dll
